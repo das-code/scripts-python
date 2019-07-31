@@ -1,0 +1,6 @@
+Ordem de precedência das expressões aritméticas
+
+1 -> () parenteses
+2 -> ** potência
+3 -> * / // % multiplicação e divisão (normal, inteira e resto)
+4 -> + - soma e subtração
